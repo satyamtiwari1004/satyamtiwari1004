@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Satyam Tiwari
 - 👀 I’m interested in Web Development ,Data Science and Machine Learning.
 - 🌱 I’m currently learning Data Science and MERN Stack.
-- 💞️ I’m looking to collaborate on Django ,Spring boot and data analytics.
+- 💞️ I’m looking to collaborate on Django ,Spring boot and data analytics Projects.
 - 📫 Reach me via email.
 
 <!---
