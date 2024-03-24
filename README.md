@@ -7,7 +7,8 @@ A Full Stack Web Developer with keen interest in AI & IOT
 - ⚡ Fun fact: I love to watch movues and play cricket.
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://satyamtiwari.xyz)
+[![website](./img/globe-light.svg)](https://satyamtiwari.xyz#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://satyamtiwari.xyz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Satyam__tiwari#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Satyam__tiwari#gh-dark-mode-only)
