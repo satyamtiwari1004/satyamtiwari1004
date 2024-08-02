@@ -48,13 +48,6 @@ A Full Stack Web Developer with keen interest in AI & IOT
 
 #
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-
-
-</details>
-
 [website]: https://satyamtiwari.xyz
 [twitter]: https://twitter.com/Satyam__tiwari
 [instagram]: https://www.instagram.com/satyam_.tiwari
