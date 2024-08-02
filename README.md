@@ -46,8 +46,6 @@ A Full Stack Web Developer with keen interest in AI & IOT
 <br/>
 <br/>
 
-#
-
 [website]: https://satyamtiwari.xyz
 [twitter]: https://twitter.com/Satyam__tiwari
 [instagram]: https://www.instagram.com/satyam_.tiwari
