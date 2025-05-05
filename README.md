@@ -1,9 +1,9 @@
-# Hi there, I'm Satyam Tiwari👋 
+# 👋 Hi there, I'm Satyam  
 A Full Stack Web Developer with keen interest in AI & IOT
 
 - 🌱 I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate on MicroServices ,Web Dev and Machine Learning Projects.
-- 🥅 2024 Goals: Learn more about implementation of AI in IOT.
+- 🥅 2025 Goals: Learn more about implementation of AI in IOT.
 - ⚡ Fun fact: I love to watch movies and play cricket.
 ### Connect with me:
 
